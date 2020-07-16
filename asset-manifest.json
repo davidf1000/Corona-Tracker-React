@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.448fc8f7.chunk.css",
-    "main.js": "/static/js/main.67e807cc.chunk.js",
-    "main.js.map": "/static/js/main.67e807cc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d220dc74.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d220dc74.js.map",
-    "static/js/2.ab4ec973.chunk.js": "/static/js/2.ab4ec973.chunk.js",
-    "static/js/2.ab4ec973.chunk.js.map": "/static/js/2.ab4ec973.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.cb774d1f7c76dd5fdbdb532ce444cd0c.js": "/precache-manifest.cb774d1f7c76dd5fdbdb532ce444cd0c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.448fc8f7.chunk.css.map": "/static/css/main.448fc8f7.chunk.css.map",
-    "static/js/2.ab4ec973.chunk.js.LICENSE.txt": "/static/js/2.ab4ec973.chunk.js.LICENSE.txt",
-    "static/media/spinner.gif": "/static/media/spinner.26ef8bb4.gif"
+    "main.css": "/corona-tracker-react/static/css/main.448fc8f7.chunk.css",
+    "main.js": "/corona-tracker-react/static/js/main.67e807cc.chunk.js",
+    "main.js.map": "/corona-tracker-react/static/js/main.67e807cc.chunk.js.map",
+    "runtime-main.js": "/corona-tracker-react/static/js/runtime-main.aa7c181c.js",
+    "runtime-main.js.map": "/corona-tracker-react/static/js/runtime-main.aa7c181c.js.map",
+    "static/js/2.04111e9e.chunk.js": "/corona-tracker-react/static/js/2.04111e9e.chunk.js",
+    "static/js/2.04111e9e.chunk.js.map": "/corona-tracker-react/static/js/2.04111e9e.chunk.js.map",
+    "index.html": "/corona-tracker-react/index.html",
+    "precache-manifest.a0ef17dacf3204e3696eff34b9989de1.js": "/corona-tracker-react/precache-manifest.a0ef17dacf3204e3696eff34b9989de1.js",
+    "service-worker.js": "/corona-tracker-react/service-worker.js",
+    "static/css/main.448fc8f7.chunk.css.map": "/corona-tracker-react/static/css/main.448fc8f7.chunk.css.map",
+    "static/js/2.04111e9e.chunk.js.LICENSE.txt": "/corona-tracker-react/static/js/2.04111e9e.chunk.js.LICENSE.txt",
+    "static/media/spinner.gif": "/corona-tracker-react/static/media/spinner.26ef8bb4.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.d220dc74.js",
-    "static/js/2.ab4ec973.chunk.js",
+    "static/js/runtime-main.aa7c181c.js",
+    "static/js/2.04111e9e.chunk.js",
     "static/css/main.448fc8f7.chunk.css",
     "static/js/main.67e807cc.chunk.js"
   ]
