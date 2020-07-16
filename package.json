@@ -1,6 +1,6 @@
 {
-  "homepage":
-  "name": "http://davidf1000.github.io/Corona-Tracker-React",
+  "homepage":"http://davidf1000.github.io/Corona-Tracker-React",
+  "name":"Corona-Tracker-React" ,
   "version": "0.1.0",
   "private": true,
   "dependencies": {
