@@ -2,6 +2,7 @@ import React, {useEffect,useState} from 'react'
 import {Cards,Chart,CountryPicker} from './components';
 import styles from './App.module.css';
 import {fetchData} from './api/index'; 
+import Typography from "@material-ui/core/Typography";
 
  const App = () => {
     const [data,setData]= useState({
@@ -29,7 +30,8 @@ import {fetchData} from './api/index';
     }
     return (
         <div className={styles.container}>
-            <h1>Corona Tracker</h1>
+            <Typography variant="h3" >Corona Tracker</Typography>
+            <Typography variant="h5" >by David Fauzi</Typography>
             <Cards data={data}/>
             <CountryPicker countryChanged={countryChanged}  />
             <Chart data={data} />

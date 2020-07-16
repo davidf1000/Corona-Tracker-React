@@ -22,12 +22,12 @@ const Chart = ({data:{confirmed,recovered,deaths,lastUpdate,country}}) => {
             datasets:[{
                 data: dailyData.map(({confirmed})=>confirmed),
                 label: 'Infected',
-                borderColor:'red',
+                borderColor:'#FF7F7F',
                 fill:true
             },{
                 data: dailyData.map(({deaths})=>deaths),
                 label: 'Deaths',
-                borderColor:'blue',
+                borderColor:'#7F7FFF',
                 fill:true
             }]
         }} />) : <Spinner />
@@ -40,7 +40,7 @@ const Chart = ({data:{confirmed,recovered,deaths,lastUpdate,country}}) => {
           labels:['Infected','Recovered','Deaths'],
           datasets:[
             {label:'People',
-            backgroundColor:['blue','green','red'],
+            backgroundColor:['#12cad6','#c4fb6d','#e8505b'],
             data:[confirmed.value,recovered.value,deaths.value]}
           ]
         }}
