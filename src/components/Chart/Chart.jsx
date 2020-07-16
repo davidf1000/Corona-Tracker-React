@@ -46,7 +46,7 @@ const Chart = ({data:{confirmed,recovered,deaths,lastUpdate,country}}) => {
         }}
         options={{
           legend:{display:false},
-          title:{display:true,text:`Current State`}
+          title:{display:true,text:`Current State in ${country}`}
         }}
       />
     ) : <Spinner />
