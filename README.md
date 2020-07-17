@@ -53,3 +53,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ![indo](https://user-images.githubusercontent.com/47879766/87788213-2cfa2880-c867-11ea-999e-9861920e7782.png)
 ## US Case
 ![us](https://user-images.githubusercontent.com/47879766/87788216-2d92bf00-c867-11ea-85e7-68aeee693c72.png)
+## Country Option
+![choice](https://user-images.githubusercontent.com/47879766/87788449-95e1a080-c867-11ea-8881-6489c8a66c3b.png)
