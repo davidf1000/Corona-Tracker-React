@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Corona Tracker
+A simple Webapp that fetch API data of corona status(total cases, deaths, and recovered) both globally and regionally. Then the data is plotted with chartJS into Graph from global case and Barchart for regional cases. Created with React-app 
 
 ## Available Scripts
 
